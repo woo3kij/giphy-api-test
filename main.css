@@ -1,0 +1,38 @@
+.container {
+    margin: auto;
+    padding: 50px 0;
+    width: 100%;
+    max-width: 650px;
+    text-align: center;
+    background-color: #eee;
+    font-size: 2.5em;
+    font-family: Muli, sans-serif;
+  }
+  
+  label {
+    display: block;
+    margin: 35px 0;
+  }
+  
+  input {
+    width: 100%;
+    max-width: 360px;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 0.7em;
+    font-family: Muli, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  #score {
+    min-height: 200px;
+    font-size: 0.6em;
+    padding: 50px;
+  }
+  
+  #score span {
+    display: none;
+  }
+  
+  footer {
+    font-size: 0.4em;
+  }
